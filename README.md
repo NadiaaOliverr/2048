@@ -5,7 +5,10 @@
 </blockquote>
 
 # Executando o jogo
-- Faça o download do projeto ou clone o mesmo: git clone https://github.com/NadiaaOliverr/2048.git
+- Faça o download do projeto ou clone: 
+  ```bash 
+  git clone https://github.com/NadiaaOliverr/2048.git 
+  ```
 - Abra o [DEV C++](https://sourceforge.net/projects/orwelldevcpp/) e adicione o arquivo 2048.c 
 - Execute e seja feliz 😎  
 **Obs:** O jogo funciona com as setinhas do teclado 😉
