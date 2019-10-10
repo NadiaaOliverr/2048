@@ -6,6 +6,7 @@
 
 # Executando o jogo
 - Faça o download do projeto ou clone: 
+  
   ```bash 
   git clone https://github.com/NadiaaOliverr/2048.git 
   ```
