@@ -14,10 +14,6 @@
 - Execute e seja feliz 😎  
 **Obs:** O jogo funciona com as setinhas do teclado 😉
 
-## Licença
-
-Este projeto possui a licença <a href="https://github.com/NadiaOliver/2048/blob/master/LICENSE" target="_blank">MIT</a>
-
 ## Quer contribuir?
 Caso tenha alguma sugestão de melhoria ou queira ajudar a construir uma nova feature, crie uma nova issue [aqui](https://github.com/NadiaaOliverr/2048/issues) 👊
 
